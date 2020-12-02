@@ -1,2 +1,2 @@
-playsound
-pyttsx3
+playsound==1.2.2
+pyttsx3==2.90
